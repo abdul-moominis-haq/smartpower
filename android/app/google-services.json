@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373221334789",
+    "project_id": "smartpower-dd508",
+    "storage_bucket": "smartpower-dd508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373221334789:android:38f96339101dee9c3f616c",
+        "android_client_info": {
+          "package_name": "com.example.smartpower"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeKRlPgH4jRWevdvWPX_uhAv-9N2J-YUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
